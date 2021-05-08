@@ -3,3 +3,4 @@
 3
 4 from myFeature
 5 from myFeature
+6 from myFeature
